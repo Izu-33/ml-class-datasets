@@ -64,7 +64,16 @@ Here are the datasets currently included in this repository, along with their so
 
 In addition to the datasets, here are some useful resources for project ideas and additional datasets:
 
+#### Sample Datasets
+
+- 📈 [Scikit-learn Datasets](https://github.com/scikit-learn/scikit-learn/tree/main/sklearn/datasets)
+- 💾 [Seaborn Datasets](https://github.com/mwaskom/seaborn-data)
+- 📊 [Plotly Datasets](https://github.com/plotly/datasets)
+
+#### List of Data Sources
 - 📂 [List of Data Sources for ML/AI Tasks](https://www.kaggle.com/discussions/general/199837)  
+
+#### List of Portfolio Projects
 - 📘 [25 Machine Learning Projects for All Levels (DataCamp)](https://www.datacamp.com/blog/machine-learning-projects-for-all-levels)  
 
 ---
