@@ -59,8 +59,12 @@ Here are the datasets currently included in this repository, along with their so
    - Possible Projects: Recommendation engine, content analytics, genre popularity trends.
 9. **[Nigerian States and their GDP](https://x.com/thecableindex/status/1786303002350960647?s=46&t=YoF4K0q-dNG9S6AXfcrqSg)** - [`nigeria_gdp.csv`](datasets/nigeria-data/nigeria_gdp.csv)  
    - Task: Map Visualization, Exploratory Data Analysis
-   - Description: Complete list of Nigerian states by GDP (BudgIT, 2022).  
+   - Description: Complete list of Nigerian states by GDP (BudgIT, 2022). 
    - Possible Projects: In conjunction with other datasets, dashboards using map visuals.
+10. **[Nigeria GeoJSON Map File](https://simplemaps.com/gis/country/ng)** - [`ng.json`](datasets/nigeria-data/ng.json)
+   - Task: Map Visualization
+   - Description: JSON of Nigerian states and their coordinates. 
+   - Possible Projects: In conjunction with other datasets, choropleth maps with Folium.
 
 ---
 
