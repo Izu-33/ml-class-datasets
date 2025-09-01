@@ -57,6 +57,10 @@ Here are the datasets currently included in this repository, along with their so
    - Task: Recommendation Systems, Exploratory Data Analysis  
    - Description: Dataset containing metadata of movies and TV shows available on Netflix.  
    - Possible Projects: Recommendation engine, content analytics, genre popularity trends.
+9. **[Nigerian States and their GDP](https://x.com/thecableindex/status/1786303002350960647?s=46&t=YoF4K0q-dNG9S6AXfcrqSg)** - [`nigeria_gdp.csv`](datasets/nigeria_gdp.csv)  
+   - Task: Map Visualization, Exploratory Data Analysis
+   - Description: Complete list of Nigerian states by GDP.  
+   - Possible Projects: In conjunction with other datasets, dashboards using map visuals.
 
 ---
 
