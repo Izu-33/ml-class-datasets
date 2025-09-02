@@ -65,7 +65,7 @@ Here are the datasets currently included in this repository, along with their so
    - Task: Map Visualization
    - Description: JSON of Nigerian states and their coordinates. 
    - Possible Projects: In conjunction with other datasets, choropleth maps with Folium.
-11. [Adidas Sales Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset) - [`Adidas US Sales Datasets.xlsx`](datasets/Adidas%20US%20Sales%20Datasets.xlsx)
+11. **[Adidas Sales Dataset](https://www.kaggle.com/datasets/heemalichaudhari/adidas-sales-dataset)** - [`Adidas US Sales Datasets.xlsx`](datasets/Adidas%20US%20Sales%20Datasets.xlsx)
    - Task: Regression, Classification, Time Series, Exploratory Data Analysis
    - Description: Sales transactions of Adidas products including region, retailer, sales method, units sold, and revenue.
    - Possible Projects: Forecasting sales trends, identifying top-performing regions/retailers, analyzing sales channels, profit prediction.
